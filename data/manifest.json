@@ -1,0 +1,170 @@
+[
+  {
+    "group": "primary",
+    "path": "runs/gpt_5_6_luna/validation_full_luna_validation_memory_build_v1_attachment_free.jsonl",
+    "rows": 106,
+    "sha256": "92d9d9aa21d4f8af88508d8b3214ecf7afce4c855dfaa39f57de1be503f27174"
+  },
+  {
+    "group": "primary",
+    "path": "runs/gpt_5_6_luna/validation_with_test_memory_full_luna_validation_test_memory_agentic_v1.jsonl",
+    "rows": 106,
+    "sha256": "c3ca11ff89ee24fc29d9889632c18e01074b30162a3ebe54831cdf6db496eb18"
+  },
+  {
+    "group": "primary",
+    "path": "runs/gemini_3_7_flash/validation_full_gemini_validation_baseline_v1.jsonl",
+    "rows": 106,
+    "sha256": "46f85254f0e29ffe9b3e5588af83baf619bb3d4fb54807dc019a58290325a09d"
+  },
+  {
+    "group": "primary",
+    "path": "runs/gemini_3_7_flash/validation_with_test_memory_full_gemini_validation_test_memory_agentic_v1.jsonl",
+    "rows": 106,
+    "sha256": "f66687d5317c2a06d77c410f25fd02f8a6458fa0aa755e34377068a094c5611a"
+  },
+  {
+    "group": "primary",
+    "path": "runs/deepseek_v4_flash_0731/validation_full_deepseek_validation_baseline_efficiency_v1.jsonl",
+    "rows": 106,
+    "sha256": "4d7e1296f8db33d3d86a81ef7ed75b87e1adf1351b774454033bb41ab6eac243"
+  },
+  {
+    "group": "primary",
+    "path": "runs/deepseek_v4_flash_0731/validation_with_test_memory_full_deepseek_validation_test_memory_agentic_efficiency_v2.jsonl",
+    "rows": 106,
+    "sha256": "4bd72a6f844445ab0b92e050f6a75d885d5b24dc71844c2aa0f5f83c6ff440a5"
+  },
+  {
+    "group": "primary",
+    "path": "runs/ministral_3b_2512/validation_full_ministral_validation_baseline_efficiency_v1.jsonl",
+    "rows": 106,
+    "sha256": "89d2f79a6ea26152495b2b8d47321229a140824a00e5b2c800727441cbd293f5"
+  },
+  {
+    "group": "primary",
+    "path": "runs/ministral_3b_2512/validation_with_test_memory_full_ministral_validation_agentic_memory_toolfree_bank_v1.jsonl",
+    "rows": 106,
+    "sha256": "63efc4cfad616a7d279fa55e33e52ceea1e301c7370fd1291b656c642c69b278"
+  },
+  {
+    "group": "primary",
+    "path": "runs/gpt_5_6_luna/test_full_luna_test_outcome_blind_agentic_adaptive_memory_build_v1.jsonl",
+    "rows": 229,
+    "sha256": "e7bb75484133c79847b817158ce77f8fb1e2be690499077d98939c57b666c607"
+  },
+  {
+    "group": "primary",
+    "path": "runs/gemini_3_7_flash/test_full_gemini_test_outcome_blind_agentic_adaptive_memory_build_v1.jsonl",
+    "rows": 229,
+    "sha256": "f375903b213d93258917eea8e2a522797b893c4cf95b390fe32592804bade042"
+  },
+  {
+    "group": "primary",
+    "path": "runs/deepseek_v4_flash_0731/test_full_deepseek_test_outcome_blind_agentic_adaptive_memory_build_efficiency_v3.jsonl",
+    "rows": 229,
+    "sha256": "5f69ec8d97cbe8a71e545f5a26fc3ef7cfec4da806de7d2d4dda2e0f55ca018a"
+  },
+  {
+    "group": "primary",
+    "path": "runs/ministral_3b_2512/test_full_ministral_test_outcome_blind_agentic_adaptive_memory_build_toolfree_v2.jsonl",
+    "rows": 229,
+    "sha256": "117dd1c07971ed4c7a9382129dc8e3513d6feddd1ee0b181657dcef778e035da"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gpt_5_6_luna/test_full_luna_schema_ablation_50_build_v1.jsonl",
+    "rows": 50,
+    "sha256": "fb169ca3059cfe8c296ece1d00da04e770637c5cf8b56fd79d8b4356602705fe"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gpt_5_6_luna/validation_with_test_memory_full_luna_schema_ablation_50_structured_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "ddb424e65feb169b439e6bffec7059a3e7035b2d1d63b766a66254f52f476566"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gpt_5_6_luna/validation_with_test_memory_full_luna_schema_ablation_50_self_organized_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "52460da6f345771d2dcbe8ce17e75ad118649b84c8ecc958661010b3a40658a9"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gemini_3_7_flash/test_full_gemini_schema_ablation_50_build_v1.jsonl",
+    "rows": 50,
+    "sha256": "42c4ffce222e44ac09e7947b8056f1dfba45a8cb55a0568f8855994e91394b03"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gemini_3_7_flash/validation_with_test_memory_full_gemini_schema_ablation_50_structured_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "9d96d0e2be914c7fa351da58e6facaa036ca4f3b59e72f3a83487dbcee8fc6a1"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/gemini_3_7_flash/validation_with_test_memory_full_gemini_schema_ablation_50_self_organized_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "01a37bd9ee2e1f1640ee1b3aca50683138fa9b1366cc4c517365438f054f639e"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/test_full_ministral_schema_ablation_50_build_v1.jsonl",
+    "rows": 50,
+    "sha256": "169f4d08b0afc3caee564eb72cebb3d72e8bca877f6f58fb96fd843b5a297928"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/test_full_ministral_schema_ablation_50_build_v2.jsonl",
+    "rows": 50,
+    "sha256": "f6e311344c1f2aabc06a39656f35e6d4a365c5c06e52ebb8fb47ca3bcb1eaa61"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/validation_with_test_memory_full_ministral_schema_ablation_50_structured_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "55c2f9c19a5acb83b2ed4d17f1e24c6a47673786acaff17d25daee48e506021d"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/validation_with_test_memory_full_ministral_schema_ablation_50_self_organized_validation_v1.jsonl",
+    "rows": 106,
+    "sha256": "f47e20aef83a53c9518d0967e0ebff3ae81e7c0a4ae741d5e2c61f6ffc438620"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/validation_with_test_memory_full_ministral_schema_ablation_50_structured_validation_v2.jsonl",
+    "rows": 106,
+    "sha256": "0b2d5d7b3ea589589ce91dbd94f8f811c108b2d390b66ae11e1061adc0947d75"
+  },
+  {
+    "group": "recording_policy",
+    "path": "runs/ministral_3b_2512/validation_with_test_memory_full_ministral_schema_ablation_50_self_organized_validation_v2.jsonl",
+    "rows": 106,
+    "sha256": "7c4037f79e1a2dfc7557ecaa1d1fe962c9bec43b43ba7d58b4d58c20fa16d352"
+  },
+  {
+    "group": "recording_policy_subset",
+    "path": "runs/gpt_5_6_luna/test_full_luna_schema_ablation_50_build_v1_task_subset.json",
+    "rows": null,
+    "sha256": "31572d4103ede5085b2277bcfc005c0232ab5cef1682ce376533f5e459ffade9"
+  },
+  {
+    "group": "recording_policy_subset",
+    "path": "runs/gemini_3_7_flash/test_full_gemini_schema_ablation_50_build_v1_task_subset.json",
+    "rows": null,
+    "sha256": "31572d4103ede5085b2277bcfc005c0232ab5cef1682ce376533f5e459ffade9"
+  },
+  {
+    "group": "recording_policy_subset",
+    "path": "runs/ministral_3b_2512/test_full_ministral_schema_ablation_50_build_v1_task_subset.json",
+    "rows": null,
+    "sha256": "31572d4103ede5085b2277bcfc005c0232ab5cef1682ce376533f5e459ffade9"
+  },
+  {
+    "group": "recording_policy_subset",
+    "path": "runs/ministral_3b_2512/test_full_ministral_schema_ablation_50_build_v2_task_subset.json",
+    "rows": null,
+    "sha256": "31572d4103ede5085b2277bcfc005c0232ab5cef1682ce376533f5e459ffade9"
+  }
+]

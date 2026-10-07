@@ -1,0 +1,425 @@
+model,task_id,selection_method,records_loaded,inserted_context_chars,size_source
+GPT-5.6 Luna,17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc,agent_selected,3,13309,reconstructed
+GPT-5.6 Luna,04a04a9b-226c-43fd-b319-d5e89743676f,agent_selected,3,14697,reconstructed
+GPT-5.6 Luna,14569e28-c88c-43e4-8c32-097d35b9a67d,agent_selected,3,9585,reconstructed
+GPT-5.6 Luna,e1fc63a2-da7a-432f-be78-7c4a95598703,agent_selected,3,11509,reconstructed
+GPT-5.6 Luna,8e867cd7-cff9-4e6c-867a-ff5ddc2550be,agent_selected,3,13754,reconstructed
+GPT-5.6 Luna,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,agent_selected,3,12975,reconstructed
+GPT-5.6 Luna,7619a514-5fa8-43ef-9143-83b66a43d7a4,agent_selected,3,14115,reconstructed
+GPT-5.6 Luna,ec09fa32-d03f-4bf8-84b0-1f16922c3ae4,agent_selected,3,5944,reconstructed
+GPT-5.6 Luna,676e5e31-a554-4acc-9286-b60d90a92d26,agent_selected,3,15269,reconstructed
+GPT-5.6 Luna,2a649bb1-795f-4a01-b3be-9a01868dae73,agent_selected,3,9602,reconstructed
+GPT-5.6 Luna,87c610df-bef7-4932-b950-1d83ef4e282b,agent_selected,3,8898,reconstructed
+GPT-5.6 Luna,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,agent_selected,3,8007,reconstructed
+GPT-5.6 Luna,5d0080cb-90d7-4712-bc33-848150e917d3,agent_selected,3,12864,reconstructed
+GPT-5.6 Luna,46719c30-f4c3-4cad-be07-d5cb21eee6bb,agent_selected,3,16588,reconstructed
+GPT-5.6 Luna,4b6bb5f7-f634-410e-815d-e673ab7f8632,agent_selected,3,12922,reconstructed
+GPT-5.6 Luna,f0f46385-fc03-4599-b5d3-f56496c3e69f,agent_selected,3,8966,reconstructed
+GPT-5.6 Luna,384d0dd8-e8a4-4cfe-963c-d37f256e7662,agent_selected,3,7423,reconstructed
+GPT-5.6 Luna,e4e91f1c-1dcd-439e-9fdd-cb976f5293fd,agent_selected,3,12864,reconstructed
+GPT-5.6 Luna,56137764-b4e0-45b8-9c52-1866420c3df5,agent_selected,3,11431,reconstructed
+GPT-5.6 Luna,de9887f5-ead8-4727-876f-5a4078f8598c,agent_selected,3,10625,reconstructed
+GPT-5.6 Luna,0ff53813-3367-4f43-bcbd-3fd725c1bf4b,agent_selected,3,15900,reconstructed
+GPT-5.6 Luna,983bba7c-c092-455f-b6c9-7857003d48fc,agent_selected,3,15869,reconstructed
+GPT-5.6 Luna,a7feb290-76bb-4cb7-8800-7edaf7954f2f,agent_selected,3,10063,reconstructed
+GPT-5.6 Luna,b4cc024b-3f5e-480e-b96a-6656493255b5,agent_selected,3,13043,reconstructed
+GPT-5.6 Luna,2d83110e-a098-4ebb-9987-066c06fa42d0,agent_selected,3,6677,reconstructed
+GPT-5.6 Luna,33d8ea3b-6c6b-4ff1-803d-7e270dea8a57,agent_selected,3,18417,reconstructed
+GPT-5.6 Luna,e8cb5b03-41e0-4086-99e5-f6806cd97211,agent_selected,3,18287,reconstructed
+GPT-5.6 Luna,27d5d136-8563-469e-92bf-fd103c28b57c,agent_selected,3,7488,reconstructed
+GPT-5.6 Luna,dc28cf18-6431-458b-83ef-64b3ce566c10,agent_selected,3,7299,reconstructed
+GPT-5.6 Luna,b816bfce-3d80-4913-a07d-69b752ce6377,agent_selected,3,14903,reconstructed
+GPT-5.6 Luna,f46b4380-207e-4434-820b-f32ce04ae2a4,agent_selected,3,10140,reconstructed
+GPT-5.6 Luna,72e110e7-464c-453c-a309-90a95aed6538,agent_selected,3,9753,reconstructed
+GPT-5.6 Luna,05407167-39ec-4d3a-a234-73a9120c325d,agent_selected,3,15391,reconstructed
+GPT-5.6 Luna,b9763138-c053-4832-9f55-86200cb1f99c,agent_selected,3,11963,reconstructed
+GPT-5.6 Luna,16d825ff-1623-4176-a5b5-42e0f5c2b0ac,agent_selected,3,15066,reconstructed
+GPT-5.6 Luna,544b7f0c-173a-4377-8d56-57b36eb26ddf,agent_selected,3,17251,reconstructed
+GPT-5.6 Luna,42576abe-0deb-4869-8c63-225c2d75a95a,agent_selected,3,6616,reconstructed
+GPT-5.6 Luna,6b078778-0b90-464d-83f6-59511c811b01,agent_selected,3,13043,reconstructed
+GPT-5.6 Luna,b415aba4-4b68-4fc6-9b89-2c812e55a3e1,agent_selected,3,10959,reconstructed
+GPT-5.6 Luna,08cae58d-4084-4616-b6dd-dd6534e4825b,agent_selected,3,11940,reconstructed
+GPT-5.6 Luna,2dfc4c37-fec1-4518-84a7-10095d30ad75,agent_selected,3,13604,reconstructed
+GPT-5.6 Luna,935e2cff-ae78-4218-b3f5-115589b19dae,agent_selected,3,18417,reconstructed
+GPT-5.6 Luna,4fc2f1ae-8625-45b5-ab34-ad4433bc21f8,agent_selected,3,18417,reconstructed
+GPT-5.6 Luna,5188369a-3bbe-43d8-8b94-11558f909a08,agent_selected,3,12732,reconstructed
+GPT-5.6 Luna,9f41b083-683e-4dcf-9185-ccfeaa88fa45,agent_selected,3,12330,reconstructed
+GPT-5.6 Luna,6f37996b-2ac7-44b0-8e68-6d28256631b4,agent_selected,3,7647,reconstructed
+GPT-5.6 Luna,56db2318-640f-477a-a82f-bc93ad13e882,agent_selected,3,8447,reconstructed
+GPT-5.6 Luna,71345b0a-9c7d-4b50-b2bf-937ec5879845,agent_selected,3,18417,reconstructed
+GPT-5.6 Luna,72c06643-a2fa-4186-aa5c-9ec33ae9b445,agent_selected,3,8060,reconstructed
+GPT-5.6 Luna,ebbc1f13-d24d-40df-9068-adcf735b4240,agent_selected,3,9279,reconstructed
+GPT-5.6 Luna,7b5377b0-3f38-4103-8ad2-90fe89864c04,agent_selected,3,9471,reconstructed
+GPT-5.6 Luna,ad37a656-079a-49f9-a493-7b739c9167d1,agent_selected,3,12952,reconstructed
+GPT-5.6 Luna,f3917a3d-1d17-4ee2-90c5-683b072218fe,agent_selected,3,14851,reconstructed
+GPT-5.6 Luna,4b650a35-8529-4695-89ed-8dc7a500a498,agent_selected,3,5252,reconstructed
+GPT-5.6 Luna,48eb8242-1099-4c26-95d4-ef22b002457a,agent_selected,3,10270,reconstructed
+GPT-5.6 Luna,c8b7e059-c60d-472e-ad64-3b04ae1166dc,agent_selected,3,14898,reconstructed
+GPT-5.6 Luna,d1af70ea-a9a4-421a-b9cc-94b5e02f1788,agent_selected,3,13986,reconstructed
+GPT-5.6 Luna,08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0,agent_selected,3,7158,reconstructed
+GPT-5.6 Luna,c714ab3a-da30-4603-bacd-d008800188b9,agent_selected,3,7450,reconstructed
+GPT-5.6 Luna,ded28325-3447-4c56-860f-e497d6fb3577,agent_selected,3,6955,reconstructed
+GPT-5.6 Luna,e961a717-6b25-4175-8a68-874d28190ee4,agent_selected,3,10232,reconstructed
+GPT-5.6 Luna,d700d50d-c707-4dca-90dc-4528cddd0c80,agent_selected,3,12019,reconstructed
+GPT-5.6 Luna,851e570a-e3de-4d84-bcfa-cc85578baa59,agent_selected,3,7509,reconstructed
+GPT-5.6 Luna,cabe07ed-9eca-40ea-8ead-410ef5e83f91,agent_selected,3,12327,reconstructed
+GPT-5.6 Luna,0a3cd321-3e76-4622-911b-0fda2e5d6b1a,agent_selected,3,12186,reconstructed
+GPT-5.6 Luna,f2feb6a4-363c-4c09-a804-0db564eafd68,agent_selected,3,16124,reconstructed
+GPT-5.6 Luna,3cef3a44-215e-4aed-8e3b-b1e3f08063b7,agent_selected,3,12557,reconstructed
+GPT-5.6 Luna,50f58759-7bd6-406f-9b0d-5692beb2a926,agent_selected,3,18417,reconstructed
+GPT-5.6 Luna,0b260a57-3f3a-4405-9f29-6d7a1012dbfb,agent_selected,3,10310,reconstructed
+GPT-5.6 Luna,ed58682d-bc52-4baa-9eb0-4eb81e1edacc,agent_selected,3,7356,reconstructed
+GPT-5.6 Luna,d0633230-7067-47a9-9dbf-ee11e0a2cdd6,agent_selected,3,10556,reconstructed
+GPT-5.6 Luna,023e9d44-96ae-4eed-b912-244ee8c3b994,agent_selected,3,10922,reconstructed
+GPT-5.6 Luna,305ac316-eef6-4446-960a-92d80d542f82,agent_selected,3,9264,reconstructed
+GPT-5.6 Luna,65638e28-7f37-4fa7-b7b9-8c19bb609879,agent_selected,3,14289,reconstructed
+GPT-5.6 Luna,3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee,agent_selected,3,17416,reconstructed
+GPT-5.6 Luna,708b99c5-e4a7-49cb-a5cf-933c8d46470d,agent_selected,3,16461,reconstructed
+GPT-5.6 Luna,0a65cb96-cb6e-4a6a-8aae-c1084f613456,agent_selected,3,14541,reconstructed
+GPT-5.6 Luna,11af4e1a-5f45-467d-9aeb-46f4bb0bf034,agent_selected,3,11738,reconstructed
+GPT-5.6 Luna,e142056d-56ab-4352-b091-b56054bd1359,agent_selected,3,7450,reconstructed
+GPT-5.6 Luna,50ad0280-0819-4bd9-b275-5de32d3b5bcb,agent_selected,3,5430,reconstructed
+GPT-5.6 Luna,65da0822-a48a-4a68-bbad-8ed1b835a834,agent_selected,3,10327,reconstructed
+GPT-5.6 Luna,0bb3b44a-ede5-4db5-a520-4e844b0079c5,agent_selected,3,8124,reconstructed
+GPT-5.6 Luna,7673d772-ef80-4f0f-a602-1bf4485c9b43,agent_selected,3,14082,reconstructed
+GPT-5.6 Luna,c365c1c7-a3db-4d5e-a9a1-66f56eae7865,agent_selected,3,10327,reconstructed
+GPT-5.6 Luna,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,agent_selected,3,11023,reconstructed
+GPT-5.6 Luna,dc22a632-937f-4e6a-b72f-ba0ff3f5ff97,agent_selected,3,9573,reconstructed
+GPT-5.6 Luna,e2d69698-bc99-4e85-9880-67eaccd66e6c,agent_selected,3,11179,reconstructed
+GPT-5.6 Luna,3f57289b-8c60-48be-bd80-01f8099ca449,agent_selected,3,11392,reconstructed
+GPT-5.6 Luna,23dd907f-1261-4488-b21c-e9185af91d5e,agent_selected,3,14238,reconstructed
+GPT-5.6 Luna,42d4198c-5895-4f0a-b0c0-424a66465d83,agent_selected,3,15685,reconstructed
+GPT-5.6 Luna,a26649c6-1cb2-470a-871e-6910c64c3e53,agent_selected,3,14828,reconstructed
+GPT-5.6 Luna,9e1fc53b-46ff-49a1-9d05-9e6faac34cc5,agent_selected,3,7941,reconstructed
+GPT-5.6 Luna,840bfca7-4f7b-481a-8794-c560c340185d,agent_selected,3,15006,reconstructed
+GPT-5.6 Luna,1dcc160f-c187-48c2-b68e-319bd4354f3d,agent_selected,3,11229,reconstructed
+GPT-5.6 Luna,e0c10771-d627-4fd7-9694-05348e54ee36,agent_selected,3,15056,reconstructed
+GPT-5.6 Luna,a0068077-79f4-461a-adfe-75c1a4148545,agent_selected,3,9581,reconstructed
+GPT-5.6 Luna,e29834fd-413a-455c-a33e-c3915b07401c,agent_selected,3,11041,reconstructed
+GPT-5.6 Luna,bda648d7-d618-4883-88f4-3466eabd860e,agent_selected,3,16144,reconstructed
+GPT-5.6 Luna,50ec8903-b81f-4257-9450-1085afd2c319,agent_selected,3,7450,reconstructed
+GPT-5.6 Luna,cf106601-ab4f-4af9-b045-5295fe67b37d,agent_selected,3,9443,reconstructed
+GPT-5.6 Luna,5f982798-16b9-4051-ab57-cfc7ebdb2a91,agent_selected,3,12145,reconstructed
+GPT-5.6 Luna,a0c07678-e491-4bbc-8f0b-07405144218f,agent_selected,3,9888,reconstructed
+GPT-5.6 Luna,5a0c1adf-205e-4841-a666-7c3ef95def9d,agent_selected,3,11465,reconstructed
+GPT-5.6 Luna,0512426f-4d28-49f0-be77-06d05daec096,agent_selected,3,14046,reconstructed
+GPT-5.6 Luna,0bdb7c40-671d-4ad1-9ce3-986b159c0ddc,agent_selected,3,13526,reconstructed
+GPT-5.6 Luna,db4fd70a-2d37-40ea-873f-9433dc5e301f,agent_selected,3,15066,reconstructed
+Gemini 3.7 Flash,17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc,agent_selected,3,16505,reconstructed
+Gemini 3.7 Flash,04a04a9b-226c-43fd-b319-d5e89743676f,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,14569e28-c88c-43e4-8c32-097d35b9a67d,agent_selected,3,8907,reconstructed
+Gemini 3.7 Flash,e1fc63a2-da7a-432f-be78-7c4a95598703,agent_selected,3,13908,reconstructed
+Gemini 3.7 Flash,8e867cd7-cff9-4e6c-867a-ff5ddc2550be,agent_selected,3,19885,reconstructed
+Gemini 3.7 Flash,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,agent_selected,3,14746,reconstructed
+Gemini 3.7 Flash,7619a514-5fa8-43ef-9143-83b66a43d7a4,agent_selected,3,14879,reconstructed
+Gemini 3.7 Flash,ec09fa32-d03f-4bf8-84b0-1f16922c3ae4,agent_selected,3,7181,reconstructed
+Gemini 3.7 Flash,676e5e31-a554-4acc-9286-b60d90a92d26,agent_selected,3,14594,reconstructed
+Gemini 3.7 Flash,2a649bb1-795f-4a01-b3be-9a01868dae73,agent_selected,3,12368,reconstructed
+Gemini 3.7 Flash,87c610df-bef7-4932-b950-1d83ef4e282b,agent_selected,3,21729,reconstructed
+Gemini 3.7 Flash,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,agent_selected,3,8940,reconstructed
+Gemini 3.7 Flash,5d0080cb-90d7-4712-bc33-848150e917d3,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,46719c30-f4c3-4cad-be07-d5cb21eee6bb,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,4b6bb5f7-f634-410e-815d-e673ab7f8632,agent_selected,3,17381,reconstructed
+Gemini 3.7 Flash,f0f46385-fc03-4599-b5d3-f56496c3e69f,agent_selected,3,12872,reconstructed
+Gemini 3.7 Flash,384d0dd8-e8a4-4cfe-963c-d37f256e7662,agent_selected,3,7366,reconstructed
+Gemini 3.7 Flash,e4e91f1c-1dcd-439e-9fdd-cb976f5293fd,agent_selected,3,14701,reconstructed
+Gemini 3.7 Flash,56137764-b4e0-45b8-9c52-1866420c3df5,agent_selected,3,16800,reconstructed
+Gemini 3.7 Flash,de9887f5-ead8-4727-876f-5a4078f8598c,agent_selected,3,14884,reconstructed
+Gemini 3.7 Flash,0ff53813-3367-4f43-bcbd-3fd725c1bf4b,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,983bba7c-c092-455f-b6c9-7857003d48fc,agent_selected,3,19235,reconstructed
+Gemini 3.7 Flash,a7feb290-76bb-4cb7-8800-7edaf7954f2f,agent_selected,3,14142,reconstructed
+Gemini 3.7 Flash,b4cc024b-3f5e-480e-b96a-6656493255b5,agent_selected,3,16400,reconstructed
+Gemini 3.7 Flash,2d83110e-a098-4ebb-9987-066c06fa42d0,agent_selected,3,8337,reconstructed
+Gemini 3.7 Flash,33d8ea3b-6c6b-4ff1-803d-7e270dea8a57,agent_selected,3,21729,reconstructed
+Gemini 3.7 Flash,e8cb5b03-41e0-4086-99e5-f6806cd97211,agent_selected,3,18046,reconstructed
+Gemini 3.7 Flash,27d5d136-8563-469e-92bf-fd103c28b57c,agent_selected,3,6615,reconstructed
+Gemini 3.7 Flash,dc28cf18-6431-458b-83ef-64b3ce566c10,agent_selected,3,9103,reconstructed
+Gemini 3.7 Flash,b816bfce-3d80-4913-a07d-69b752ce6377,agent_selected,3,13846,reconstructed
+Gemini 3.7 Flash,f46b4380-207e-4434-820b-f32ce04ae2a4,agent_selected,3,19885,reconstructed
+Gemini 3.7 Flash,72e110e7-464c-453c-a309-90a95aed6538,agent_selected,3,19256,reconstructed
+Gemini 3.7 Flash,05407167-39ec-4d3a-a234-73a9120c325d,agent_selected,3,10952,reconstructed
+Gemini 3.7 Flash,b9763138-c053-4832-9f55-86200cb1f99c,agent_selected,3,10414,reconstructed
+Gemini 3.7 Flash,16d825ff-1623-4176-a5b5-42e0f5c2b0ac,agent_selected,3,20905,reconstructed
+Gemini 3.7 Flash,544b7f0c-173a-4377-8d56-57b36eb26ddf,agent_selected,3,21156,reconstructed
+Gemini 3.7 Flash,42576abe-0deb-4869-8c63-225c2d75a95a,agent_selected,3,8870,reconstructed
+Gemini 3.7 Flash,6b078778-0b90-464d-83f6-59511c811b01,agent_selected,3,20729,reconstructed
+Gemini 3.7 Flash,b415aba4-4b68-4fc6-9b89-2c812e55a3e1,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,08cae58d-4084-4616-b6dd-dd6534e4825b,agent_selected,3,12239,reconstructed
+Gemini 3.7 Flash,2dfc4c37-fec1-4518-84a7-10095d30ad75,agent_selected,3,19999,reconstructed
+Gemini 3.7 Flash,935e2cff-ae78-4218-b3f5-115589b19dae,agent_selected,3,20196,reconstructed
+Gemini 3.7 Flash,4fc2f1ae-8625-45b5-ab34-ad4433bc21f8,agent_selected,3,20196,reconstructed
+Gemini 3.7 Flash,5188369a-3bbe-43d8-8b94-11558f909a08,agent_selected,3,17077,reconstructed
+Gemini 3.7 Flash,9f41b083-683e-4dcf-9185-ccfeaa88fa45,agent_selected,3,14884,reconstructed
+Gemini 3.7 Flash,6f37996b-2ac7-44b0-8e68-6d28256631b4,agent_selected,3,6997,reconstructed
+Gemini 3.7 Flash,56db2318-640f-477a-a82f-bc93ad13e882,agent_selected,3,7260,reconstructed
+Gemini 3.7 Flash,71345b0a-9c7d-4b50-b2bf-937ec5879845,agent_selected,3,21263,reconstructed
+Gemini 3.7 Flash,72c06643-a2fa-4186-aa5c-9ec33ae9b445,agent_selected,3,13406,reconstructed
+Gemini 3.7 Flash,ebbc1f13-d24d-40df-9068-adcf735b4240,agent_selected,3,15595,reconstructed
+Gemini 3.7 Flash,7b5377b0-3f38-4103-8ad2-90fe89864c04,agent_selected,3,13418,reconstructed
+Gemini 3.7 Flash,ad37a656-079a-49f9-a493-7b739c9167d1,agent_selected,3,20789,reconstructed
+Gemini 3.7 Flash,f3917a3d-1d17-4ee2-90c5-683b072218fe,agent_selected,3,14440,reconstructed
+Gemini 3.7 Flash,4b650a35-8529-4695-89ed-8dc7a500a498,agent_selected,3,6408,reconstructed
+Gemini 3.7 Flash,48eb8242-1099-4c26-95d4-ef22b002457a,agent_selected,3,10498,reconstructed
+Gemini 3.7 Flash,c8b7e059-c60d-472e-ad64-3b04ae1166dc,agent_selected,3,14746,reconstructed
+Gemini 3.7 Flash,d1af70ea-a9a4-421a-b9cc-94b5e02f1788,agent_selected,3,14149,reconstructed
+Gemini 3.7 Flash,08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0,agent_selected,3,6336,reconstructed
+Gemini 3.7 Flash,c714ab3a-da30-4603-bacd-d008800188b9,agent_selected,3,6615,reconstructed
+Gemini 3.7 Flash,ded28325-3447-4c56-860f-e497d6fb3577,agent_selected,3,7115,reconstructed
+Gemini 3.7 Flash,e961a717-6b25-4175-8a68-874d28190ee4,agent_selected,3,20414,reconstructed
+Gemini 3.7 Flash,d700d50d-c707-4dca-90dc-4528cddd0c80,agent_selected,3,16589,reconstructed
+Gemini 3.7 Flash,851e570a-e3de-4d84-bcfa-cc85578baa59,agent_selected,3,6838,reconstructed
+Gemini 3.7 Flash,cabe07ed-9eca-40ea-8ead-410ef5e83f91,agent_selected,3,21156,reconstructed
+Gemini 3.7 Flash,0a3cd321-3e76-4622-911b-0fda2e5d6b1a,agent_selected,3,12239,reconstructed
+Gemini 3.7 Flash,f2feb6a4-363c-4c09-a804-0db564eafd68,agent_selected,3,16641,reconstructed
+Gemini 3.7 Flash,3cef3a44-215e-4aed-8e3b-b1e3f08063b7,agent_selected,3,10918,reconstructed
+Gemini 3.7 Flash,50f58759-7bd6-406f-9b0d-5692beb2a926,agent_selected,3,14320,reconstructed
+Gemini 3.7 Flash,0b260a57-3f3a-4405-9f29-6d7a1012dbfb,agent_selected,3,15287,reconstructed
+Gemini 3.7 Flash,ed58682d-bc52-4baa-9eb0-4eb81e1edacc,agent_selected,3,15233,reconstructed
+Gemini 3.7 Flash,d0633230-7067-47a9-9dbf-ee11e0a2cdd6,agent_selected,3,11014,reconstructed
+Gemini 3.7 Flash,023e9d44-96ae-4eed-b912-244ee8c3b994,agent_selected,3,13796,reconstructed
+Gemini 3.7 Flash,305ac316-eef6-4446-960a-92d80d542f82,agent_selected,3,21362,reconstructed
+Gemini 3.7 Flash,65638e28-7f37-4fa7-b7b9-8c19bb609879,agent_selected,3,14701,reconstructed
+Gemini 3.7 Flash,3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee,agent_selected,3,14149,reconstructed
+Gemini 3.7 Flash,708b99c5-e4a7-49cb-a5cf-933c8d46470d,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,0a65cb96-cb6e-4a6a-8aae-c1084f613456,agent_selected,3,16658,reconstructed
+Gemini 3.7 Flash,11af4e1a-5f45-467d-9aeb-46f4bb0bf034,agent_selected,3,13839,reconstructed
+Gemini 3.7 Flash,e142056d-56ab-4352-b091-b56054bd1359,agent_selected,3,6615,reconstructed
+Gemini 3.7 Flash,50ad0280-0819-4bd9-b275-5de32d3b5bcb,agent_selected,3,6326,reconstructed
+Gemini 3.7 Flash,65da0822-a48a-4a68-bbad-8ed1b835a834,agent_selected,3,20017,reconstructed
+Gemini 3.7 Flash,0bb3b44a-ede5-4db5-a520-4e844b0079c5,fallback_filename_order,3,8510,reconstructed
+Gemini 3.7 Flash,7673d772-ef80-4f0f-a602-1bf4485c9b43,agent_selected,3,21156,reconstructed
+Gemini 3.7 Flash,c365c1c7-a3db-4d5e-a9a1-66f56eae7865,agent_selected,3,20017,reconstructed
+Gemini 3.7 Flash,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,agent_selected,3,15024,reconstructed
+Gemini 3.7 Flash,dc22a632-937f-4e6a-b72f-ba0ff3f5ff97,agent_selected,3,17405,reconstructed
+Gemini 3.7 Flash,e2d69698-bc99-4e85-9880-67eaccd66e6c,agent_selected,3,21362,reconstructed
+Gemini 3.7 Flash,3f57289b-8c60-48be-bd80-01f8099ca449,agent_selected,3,20060,reconstructed
+Gemini 3.7 Flash,23dd907f-1261-4488-b21c-e9185af91d5e,agent_selected,3,17077,reconstructed
+Gemini 3.7 Flash,42d4198c-5895-4f0a-b0c0-424a66465d83,agent_selected,3,21362,reconstructed
+Gemini 3.7 Flash,a26649c6-1cb2-470a-871e-6910c64c3e53,agent_selected,3,18373,reconstructed
+Gemini 3.7 Flash,9e1fc53b-46ff-49a1-9d05-9e6faac34cc5,agent_selected,3,10772,reconstructed
+Gemini 3.7 Flash,840bfca7-4f7b-481a-8794-c560c340185d,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,1dcc160f-c187-48c2-b68e-319bd4354f3d,agent_selected,3,12984,reconstructed
+Gemini 3.7 Flash,e0c10771-d627-4fd7-9694-05348e54ee36,agent_selected,3,11063,reconstructed
+Gemini 3.7 Flash,a0068077-79f4-461a-adfe-75c1a4148545,agent_selected,3,13382,reconstructed
+Gemini 3.7 Flash,e29834fd-413a-455c-a33e-c3915b07401c,agent_selected,3,21353,reconstructed
+Gemini 3.7 Flash,bda648d7-d618-4883-88f4-3466eabd860e,agent_selected,3,14746,reconstructed
+Gemini 3.7 Flash,50ec8903-b81f-4257-9450-1085afd2c319,agent_selected,3,6969,reconstructed
+Gemini 3.7 Flash,cf106601-ab4f-4af9-b045-5295fe67b37d,agent_selected,3,20060,reconstructed
+Gemini 3.7 Flash,5f982798-16b9-4051-ab57-cfc7ebdb2a91,agent_selected,3,14142,reconstructed
+Gemini 3.7 Flash,a0c07678-e491-4bbc-8f0b-07405144218f,agent_selected,3,20060,reconstructed
+Gemini 3.7 Flash,5a0c1adf-205e-4841-a666-7c3ef95def9d,agent_selected,3,19885,reconstructed
+Gemini 3.7 Flash,0512426f-4d28-49f0-be77-06d05daec096,agent_selected,3,10320,reconstructed
+Gemini 3.7 Flash,0bdb7c40-671d-4ad1-9ce3-986b159c0ddc,agent_selected,3,20889,reconstructed
+Gemini 3.7 Flash,db4fd70a-2d37-40ea-873f-9433dc5e301f,agent_selected,3,21478,reconstructed
+DeepSeek V4 Flash,17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,04a04a9b-226c-43fd-b319-d5e89743676f,agent_selected,3,8884,recorded
+DeepSeek V4 Flash,14569e28-c88c-43e4-8c32-097d35b9a67d,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,e1fc63a2-da7a-432f-be78-7c4a95598703,agent_selected,3,12269,recorded
+DeepSeek V4 Flash,8e867cd7-cff9-4e6c-867a-ff5ddc2550be,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,agent_selected,3,29526,recorded
+DeepSeek V4 Flash,7619a514-5fa8-43ef-9143-83b66a43d7a4,agent_selected,3,25655,recorded
+DeepSeek V4 Flash,ec09fa32-d03f-4bf8-84b0-1f16922c3ae4,agent_selected,3,7948,recorded
+DeepSeek V4 Flash,676e5e31-a554-4acc-9286-b60d90a92d26,agent_selected,3,24226,recorded
+DeepSeek V4 Flash,2a649bb1-795f-4a01-b3be-9a01868dae73,agent_selected,3,27220,recorded
+DeepSeek V4 Flash,87c610df-bef7-4932-b950-1d83ef4e282b,agent_selected,3,10367,recorded
+DeepSeek V4 Flash,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,5d0080cb-90d7-4712-bc33-848150e917d3,agent_selected,3,31158,recorded
+DeepSeek V4 Flash,46719c30-f4c3-4cad-be07-d5cb21eee6bb,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,4b6bb5f7-f634-410e-815d-e673ab7f8632,agent_selected,3,32294,recorded
+DeepSeek V4 Flash,f0f46385-fc03-4599-b5d3-f56496c3e69f,agent_selected,3,25199,recorded
+DeepSeek V4 Flash,384d0dd8-e8a4-4cfe-963c-d37f256e7662,agent_selected,3,9389,recorded
+DeepSeek V4 Flash,e4e91f1c-1dcd-439e-9fdd-cb976f5293fd,agent_selected,3,28883,recorded
+DeepSeek V4 Flash,56137764-b4e0-45b8-9c52-1866420c3df5,agent_selected,3,10830,recorded
+DeepSeek V4 Flash,de9887f5-ead8-4727-876f-5a4078f8598c,agent_selected,3,32090,recorded
+DeepSeek V4 Flash,0ff53813-3367-4f43-bcbd-3fd725c1bf4b,agent_selected,3,28696,recorded
+DeepSeek V4 Flash,983bba7c-c092-455f-b6c9-7857003d48fc,agent_selected,3,29387,recorded
+DeepSeek V4 Flash,a7feb290-76bb-4cb7-8800-7edaf7954f2f,agent_selected,3,43789,recorded
+DeepSeek V4 Flash,b4cc024b-3f5e-480e-b96a-6656493255b5,agent_selected,3,9685,recorded
+DeepSeek V4 Flash,2d83110e-a098-4ebb-9987-066c06fa42d0,agent_selected,3,5509,recorded
+DeepSeek V4 Flash,33d8ea3b-6c6b-4ff1-803d-7e270dea8a57,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,e8cb5b03-41e0-4086-99e5-f6806cd97211,agent_selected,3,13428,recorded
+DeepSeek V4 Flash,27d5d136-8563-469e-92bf-fd103c28b57c,agent_selected,3,7430,recorded
+DeepSeek V4 Flash,dc28cf18-6431-458b-83ef-64b3ce566c10,agent_selected,3,8639,recorded
+DeepSeek V4 Flash,b816bfce-3d80-4913-a07d-69b752ce6377,agent_selected,3,27958,recorded
+DeepSeek V4 Flash,f46b4380-207e-4434-820b-f32ce04ae2a4,agent_selected,3,7809,recorded
+DeepSeek V4 Flash,72e110e7-464c-453c-a309-90a95aed6538,agent_selected,3,10624,recorded
+DeepSeek V4 Flash,05407167-39ec-4d3a-a234-73a9120c325d,agent_selected,3,12179,recorded
+DeepSeek V4 Flash,b9763138-c053-4832-9f55-86200cb1f99c,agent_selected,3,25141,recorded
+DeepSeek V4 Flash,16d825ff-1623-4176-a5b5-42e0f5c2b0ac,agent_selected,3,11556,recorded
+DeepSeek V4 Flash,544b7f0c-173a-4377-8d56-57b36eb26ddf,agent_selected,3,28578,recorded
+DeepSeek V4 Flash,42576abe-0deb-4869-8c63-225c2d75a95a,agent_selected,3,5496,recorded
+DeepSeek V4 Flash,6b078778-0b90-464d-83f6-59511c811b01,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,b415aba4-4b68-4fc6-9b89-2c812e55a3e1,agent_selected,3,32146,recorded
+DeepSeek V4 Flash,08cae58d-4084-4616-b6dd-dd6534e4825b,agent_selected,3,9698,recorded
+DeepSeek V4 Flash,2dfc4c37-fec1-4518-84a7-10095d30ad75,agent_selected,3,7943,recorded
+DeepSeek V4 Flash,935e2cff-ae78-4218-b3f5-115589b19dae,agent_selected,3,25367,recorded
+DeepSeek V4 Flash,4fc2f1ae-8625-45b5-ab34-ad4433bc21f8,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,5188369a-3bbe-43d8-8b94-11558f909a08,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,9f41b083-683e-4dcf-9185-ccfeaa88fa45,agent_selected,3,31158,recorded
+DeepSeek V4 Flash,6f37996b-2ac7-44b0-8e68-6d28256631b4,agent_selected,3,7430,recorded
+DeepSeek V4 Flash,56db2318-640f-477a-a82f-bc93ad13e882,agent_selected,3,7492,recorded
+DeepSeek V4 Flash,71345b0a-9c7d-4b50-b2bf-937ec5879845,agent_selected,3,26772,recorded
+DeepSeek V4 Flash,72c06643-a2fa-4186-aa5c-9ec33ae9b445,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,ebbc1f13-d24d-40df-9068-adcf735b4240,agent_selected,3,8875,recorded
+DeepSeek V4 Flash,7b5377b0-3f38-4103-8ad2-90fe89864c04,agent_selected,3,11187,recorded
+DeepSeek V4 Flash,ad37a656-079a-49f9-a493-7b739c9167d1,agent_selected,3,28410,recorded
+DeepSeek V4 Flash,f3917a3d-1d17-4ee2-90c5-683b072218fe,agent_selected,3,26772,recorded
+DeepSeek V4 Flash,4b650a35-8529-4695-89ed-8dc7a500a498,agent_selected,3,7430,recorded
+DeepSeek V4 Flash,48eb8242-1099-4c26-95d4-ef22b002457a,agent_selected,3,11014,recorded
+DeepSeek V4 Flash,c8b7e059-c60d-472e-ad64-3b04ae1166dc,agent_selected,3,13580,recorded
+DeepSeek V4 Flash,d1af70ea-a9a4-421a-b9cc-94b5e02f1788,agent_selected,3,9019,recorded
+DeepSeek V4 Flash,08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0,agent_selected,3,7495,recorded
+DeepSeek V4 Flash,c714ab3a-da30-4603-bacd-d008800188b9,agent_selected,3,7430,recorded
+DeepSeek V4 Flash,ded28325-3447-4c56-860f-e497d6fb3577,agent_selected,3,5668,recorded
+DeepSeek V4 Flash,e961a717-6b25-4175-8a68-874d28190ee4,agent_selected,3,25603,recorded
+DeepSeek V4 Flash,d700d50d-c707-4dca-90dc-4528cddd0c80,agent_selected,3,9812,recorded
+DeepSeek V4 Flash,851e570a-e3de-4d84-bcfa-cc85578baa59,agent_selected,3,5382,recorded
+DeepSeek V4 Flash,cabe07ed-9eca-40ea-8ead-410ef5e83f91,agent_selected,3,31433,recorded
+DeepSeek V4 Flash,0a3cd321-3e76-4622-911b-0fda2e5d6b1a,agent_selected,3,8519,recorded
+DeepSeek V4 Flash,f2feb6a4-363c-4c09-a804-0db564eafd68,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,3cef3a44-215e-4aed-8e3b-b1e3f08063b7,agent_selected,3,8183,recorded
+DeepSeek V4 Flash,50f58759-7bd6-406f-9b0d-5692beb2a926,agent_selected,3,26772,recorded
+DeepSeek V4 Flash,0b260a57-3f3a-4405-9f29-6d7a1012dbfb,agent_selected,3,11526,recorded
+DeepSeek V4 Flash,ed58682d-bc52-4baa-9eb0-4eb81e1edacc,agent_selected,3,9536,recorded
+DeepSeek V4 Flash,d0633230-7067-47a9-9dbf-ee11e0a2cdd6,agent_selected,3,9923,recorded
+DeepSeek V4 Flash,023e9d44-96ae-4eed-b912-244ee8c3b994,agent_selected,3,10156,recorded
+DeepSeek V4 Flash,305ac316-eef6-4446-960a-92d80d542f82,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,65638e28-7f37-4fa7-b7b9-8c19bb609879,agent_selected,3,29918,recorded
+DeepSeek V4 Flash,3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee,agent_selected,3,26698,recorded
+DeepSeek V4 Flash,708b99c5-e4a7-49cb-a5cf-933c8d46470d,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,0a65cb96-cb6e-4a6a-8aae-c1084f613456,agent_selected,3,27251,recorded
+DeepSeek V4 Flash,11af4e1a-5f45-467d-9aeb-46f4bb0bf034,agent_selected,3,44434,recorded
+DeepSeek V4 Flash,e142056d-56ab-4352-b091-b56054bd1359,agent_selected,3,9529,recorded
+DeepSeek V4 Flash,50ad0280-0819-4bd9-b275-5de32d3b5bcb,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,65da0822-a48a-4a68-bbad-8ed1b835a834,agent_selected,3,27526,recorded
+DeepSeek V4 Flash,0bb3b44a-ede5-4db5-a520-4e844b0079c5,agent_selected,3,6794,recorded
+DeepSeek V4 Flash,7673d772-ef80-4f0f-a602-1bf4485c9b43,agent_selected,3,47066,recorded
+DeepSeek V4 Flash,c365c1c7-a3db-4d5e-a9a1-66f56eae7865,agent_selected,3,12613,recorded
+DeepSeek V4 Flash,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,agent_selected,3,7391,recorded
+DeepSeek V4 Flash,dc22a632-937f-4e6a-b72f-ba0ff3f5ff97,agent_selected,3,11937,recorded
+DeepSeek V4 Flash,e2d69698-bc99-4e85-9880-67eaccd66e6c,agent_selected,3,11772,recorded
+DeepSeek V4 Flash,3f57289b-8c60-48be-bd80-01f8099ca449,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,23dd907f-1261-4488-b21c-e9185af91d5e,agent_selected,3,8349,recorded
+DeepSeek V4 Flash,42d4198c-5895-4f0a-b0c0-424a66465d83,agent_selected,3,26772,recorded
+DeepSeek V4 Flash,a26649c6-1cb2-470a-871e-6910c64c3e53,agent_selected,3,44581,recorded
+DeepSeek V4 Flash,9e1fc53b-46ff-49a1-9d05-9e6faac34cc5,agent_selected,3,7430,recorded
+DeepSeek V4 Flash,840bfca7-4f7b-481a-8794-c560c340185d,agent_selected,3,27311,recorded
+DeepSeek V4 Flash,1dcc160f-c187-48c2-b68e-319bd4354f3d,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,e0c10771-d627-4fd7-9694-05348e54ee36,agent_selected,3,11056,recorded
+DeepSeek V4 Flash,a0068077-79f4-461a-adfe-75c1a4148545,agent_selected,3,8124,recorded
+DeepSeek V4 Flash,e29834fd-413a-455c-a33e-c3915b07401c,agent_selected,3,25603,recorded
+DeepSeek V4 Flash,bda648d7-d618-4883-88f4-3466eabd860e,agent_selected,3,10812,recorded
+DeepSeek V4 Flash,50ec8903-b81f-4257-9450-1085afd2c319,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,cf106601-ab4f-4af9-b045-5295fe67b37d,agent_selection_failed,0,0,reconstructed
+DeepSeek V4 Flash,5f982798-16b9-4051-ab57-cfc7ebdb2a91,agent_selected,3,31158,recorded
+DeepSeek V4 Flash,a0c07678-e491-4bbc-8f0b-07405144218f,agent_selected,3,27516,recorded
+DeepSeek V4 Flash,5a0c1adf-205e-4841-a666-7c3ef95def9d,agent_selected,3,9454,recorded
+DeepSeek V4 Flash,0512426f-4d28-49f0-be77-06d05daec096,agent_selected,3,13017,recorded
+DeepSeek V4 Flash,0bdb7c40-671d-4ad1-9ce3-986b159c0ddc,agent_selected,3,45134,recorded
+DeepSeek V4 Flash,db4fd70a-2d37-40ea-873f-9433dc5e301f,agent_selection_failed,0,0,reconstructed
+Ministral 3B,17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc,agent_selected,3,10168,recorded
+Ministral 3B,04a04a9b-226c-43fd-b319-d5e89743676f,agent_selected,3,11095,recorded
+Ministral 3B,14569e28-c88c-43e4-8c32-097d35b9a67d,agent_selected,3,9519,recorded
+Ministral 3B,e1fc63a2-da7a-432f-be78-7c4a95598703,agent_selected,3,10304,recorded
+Ministral 3B,8e867cd7-cff9-4e6c-867a-ff5ddc2550be,agent_selected,3,10987,recorded
+Ministral 3B,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,agent_selected,3,10922,recorded
+Ministral 3B,7619a514-5fa8-43ef-9143-83b66a43d7a4,agent_selected,3,9950,recorded
+Ministral 3B,ec09fa32-d03f-4bf8-84b0-1f16922c3ae4,agent_selected,3,10175,recorded
+Ministral 3B,676e5e31-a554-4acc-9286-b60d90a92d26,agent_selected,3,10579,recorded
+Ministral 3B,2a649bb1-795f-4a01-b3be-9a01868dae73,agent_selected,3,10788,recorded
+Ministral 3B,87c610df-bef7-4932-b950-1d83ef4e282b,agent_selected,3,10390,recorded
+Ministral 3B,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,agent_selected,3,9375,recorded
+Ministral 3B,5d0080cb-90d7-4712-bc33-848150e917d3,agent_selected,3,10342,recorded
+Ministral 3B,46719c30-f4c3-4cad-be07-d5cb21eee6bb,agent_selected,3,9585,recorded
+Ministral 3B,4b6bb5f7-f634-410e-815d-e673ab7f8632,agent_selected,3,9906,recorded
+Ministral 3B,f0f46385-fc03-4599-b5d3-f56496c3e69f,agent_selected,3,10430,recorded
+Ministral 3B,384d0dd8-e8a4-4cfe-963c-d37f256e7662,agent_selected,3,10017,recorded
+Ministral 3B,e4e91f1c-1dcd-439e-9fdd-cb976f5293fd,agent_selected,3,10778,recorded
+Ministral 3B,56137764-b4e0-45b8-9c52-1866420c3df5,agent_selected,3,9768,recorded
+Ministral 3B,de9887f5-ead8-4727-876f-5a4078f8598c,agent_selected,3,10978,recorded
+Ministral 3B,0ff53813-3367-4f43-bcbd-3fd725c1bf4b,agent_selected,3,10516,recorded
+Ministral 3B,983bba7c-c092-455f-b6c9-7857003d48fc,agent_selected,3,9450,recorded
+Ministral 3B,a7feb290-76bb-4cb7-8800-7edaf7954f2f,agent_selected,3,10986,recorded
+Ministral 3B,b4cc024b-3f5e-480e-b96a-6656493255b5,agent_selected,3,9726,recorded
+Ministral 3B,2d83110e-a098-4ebb-9987-066c06fa42d0,agent_selected,3,9752,recorded
+Ministral 3B,33d8ea3b-6c6b-4ff1-803d-7e270dea8a57,agent_selected,3,11222,recorded
+Ministral 3B,e8cb5b03-41e0-4086-99e5-f6806cd97211,agent_selected,3,10546,recorded
+Ministral 3B,27d5d136-8563-469e-92bf-fd103c28b57c,agent_selected,3,9668,recorded
+Ministral 3B,dc28cf18-6431-458b-83ef-64b3ce566c10,agent_selected,3,9375,recorded
+Ministral 3B,b816bfce-3d80-4913-a07d-69b752ce6377,agent_selected,3,10157,recorded
+Ministral 3B,f46b4380-207e-4434-820b-f32ce04ae2a4,agent_selected,3,8988,recorded
+Ministral 3B,72e110e7-464c-453c-a309-90a95aed6538,agent_selected,3,10283,recorded
+Ministral 3B,05407167-39ec-4d3a-a234-73a9120c325d,agent_selected,3,9907,recorded
+Ministral 3B,b9763138-c053-4832-9f55-86200cb1f99c,agent_selected,3,10007,recorded
+Ministral 3B,16d825ff-1623-4176-a5b5-42e0f5c2b0ac,agent_selected,3,10196,recorded
+Ministral 3B,544b7f0c-173a-4377-8d56-57b36eb26ddf,agent_selected,3,9752,recorded
+Ministral 3B,42576abe-0deb-4869-8c63-225c2d75a95a,agent_selected,3,9548,recorded
+Ministral 3B,6b078778-0b90-464d-83f6-59511c811b01,agent_selected,3,10617,recorded
+Ministral 3B,b415aba4-4b68-4fc6-9b89-2c812e55a3e1,agent_selected,3,10367,recorded
+Ministral 3B,08cae58d-4084-4616-b6dd-dd6534e4825b,agent_selected,3,9172,recorded
+Ministral 3B,2dfc4c37-fec1-4518-84a7-10095d30ad75,agent_selected,3,9952,recorded
+Ministral 3B,935e2cff-ae78-4218-b3f5-115589b19dae,agent_selected,3,9799,recorded
+Ministral 3B,4fc2f1ae-8625-45b5-ab34-ad4433bc21f8,agent_selected,3,10304,recorded
+Ministral 3B,5188369a-3bbe-43d8-8b94-11558f909a08,agent_selected,3,9629,recorded
+Ministral 3B,9f41b083-683e-4dcf-9185-ccfeaa88fa45,agent_selected,3,11260,recorded
+Ministral 3B,6f37996b-2ac7-44b0-8e68-6d28256631b4,agent_selected,3,9365,recorded
+Ministral 3B,56db2318-640f-477a-a82f-bc93ad13e882,agent_selected,3,9486,recorded
+Ministral 3B,71345b0a-9c7d-4b50-b2bf-937ec5879845,agent_selected,3,11121,recorded
+Ministral 3B,72c06643-a2fa-4186-aa5c-9ec33ae9b445,agent_selected,3,8851,recorded
+Ministral 3B,ebbc1f13-d24d-40df-9068-adcf735b4240,agent_selected,3,9368,recorded
+Ministral 3B,7b5377b0-3f38-4103-8ad2-90fe89864c04,agent_selected,3,10516,recorded
+Ministral 3B,ad37a656-079a-49f9-a493-7b739c9167d1,agent_selected,3,10402,recorded
+Ministral 3B,f3917a3d-1d17-4ee2-90c5-683b072218fe,agent_selected,3,9458,recorded
+Ministral 3B,4b650a35-8529-4695-89ed-8dc7a500a498,agent_selected,3,8633,recorded
+Ministral 3B,48eb8242-1099-4c26-95d4-ef22b002457a,agent_selected,3,9286,recorded
+Ministral 3B,c8b7e059-c60d-472e-ad64-3b04ae1166dc,agent_selected,3,10795,recorded
+Ministral 3B,d1af70ea-a9a4-421a-b9cc-94b5e02f1788,agent_selected,3,8857,recorded
+Ministral 3B,08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0,agent_selected,3,8650,recorded
+Ministral 3B,c714ab3a-da30-4603-bacd-d008800188b9,agent_selected,3,10447,recorded
+Ministral 3B,ded28325-3447-4c56-860f-e497d6fb3577,agent_selected,3,10462,recorded
+Ministral 3B,e961a717-6b25-4175-8a68-874d28190ee4,agent_selected,3,9669,recorded
+Ministral 3B,d700d50d-c707-4dca-90dc-4528cddd0c80,agent_selected,3,8988,recorded
+Ministral 3B,851e570a-e3de-4d84-bcfa-cc85578baa59,agent_selected,3,9637,recorded
+Ministral 3B,cabe07ed-9eca-40ea-8ead-410ef5e83f91,agent_selected,3,9676,recorded
+Ministral 3B,0a3cd321-3e76-4622-911b-0fda2e5d6b1a,agent_selected,3,9952,recorded
+Ministral 3B,f2feb6a4-363c-4c09-a804-0db564eafd68,agent_selected,3,9952,recorded
+Ministral 3B,3cef3a44-215e-4aed-8e3b-b1e3f08063b7,agent_selected,3,10283,recorded
+Ministral 3B,50f58759-7bd6-406f-9b0d-5692beb2a926,agent_selected,3,11111,recorded
+Ministral 3B,0b260a57-3f3a-4405-9f29-6d7a1012dbfb,agent_selected,3,9585,recorded
+Ministral 3B,ed58682d-bc52-4baa-9eb0-4eb81e1edacc,agent_selected,3,9265,recorded
+Ministral 3B,d0633230-7067-47a9-9dbf-ee11e0a2cdd6,agent_selected,3,10156,recorded
+Ministral 3B,023e9d44-96ae-4eed-b912-244ee8c3b994,agent_selected,3,9043,recorded
+Ministral 3B,305ac316-eef6-4446-960a-92d80d542f82,agent_selected,3,11396,recorded
+Ministral 3B,65638e28-7f37-4fa7-b7b9-8c19bb609879,agent_selected,3,12281,recorded
+Ministral 3B,3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee,agent_selected,3,9194,recorded
+Ministral 3B,708b99c5-e4a7-49cb-a5cf-933c8d46470d,agent_selected,3,8988,recorded
+Ministral 3B,0a65cb96-cb6e-4a6a-8aae-c1084f613456,agent_selected,3,9752,recorded
+Ministral 3B,11af4e1a-5f45-467d-9aeb-46f4bb0bf034,agent_selected,3,9512,recorded
+Ministral 3B,e142056d-56ab-4352-b091-b56054bd1359,agent_selected,3,9337,recorded
+Ministral 3B,50ad0280-0819-4bd9-b275-5de32d3b5bcb,agent_selected,3,9519,recorded
+Ministral 3B,65da0822-a48a-4a68-bbad-8ed1b835a834,agent_selected,3,10579,recorded
+Ministral 3B,0bb3b44a-ede5-4db5-a520-4e844b0079c5,agent_selected,3,8628,recorded
+Ministral 3B,7673d772-ef80-4f0f-a602-1bf4485c9b43,agent_selected,3,10617,recorded
+Ministral 3B,c365c1c7-a3db-4d5e-a9a1-66f56eae7865,agent_selected,3,9068,recorded
+Ministral 3B,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,agent_selected,3,9172,recorded
+Ministral 3B,dc22a632-937f-4e6a-b72f-ba0ff3f5ff97,agent_selected,3,11398,recorded
+Ministral 3B,e2d69698-bc99-4e85-9880-67eaccd66e6c,agent_selected,3,10035,recorded
+Ministral 3B,3f57289b-8c60-48be-bd80-01f8099ca449,agent_selected,3,9537,recorded
+Ministral 3B,23dd907f-1261-4488-b21c-e9185af91d5e,agent_selected,3,10995,recorded
+Ministral 3B,42d4198c-5895-4f0a-b0c0-424a66465d83,agent_selected,3,10347,recorded
+Ministral 3B,a26649c6-1cb2-470a-871e-6910c64c3e53,agent_selected,3,9398,recorded
+Ministral 3B,9e1fc53b-46ff-49a1-9d05-9e6faac34cc5,agent_selected,3,10607,recorded
+Ministral 3B,840bfca7-4f7b-481a-8794-c560c340185d,agent_selected,3,10806,recorded
+Ministral 3B,1dcc160f-c187-48c2-b68e-319bd4354f3d,agent_selected,3,9436,recorded
+Ministral 3B,e0c10771-d627-4fd7-9694-05348e54ee36,agent_selected,3,8857,recorded
+Ministral 3B,a0068077-79f4-461a-adfe-75c1a4148545,agent_selected,3,10093,recorded
+Ministral 3B,e29834fd-413a-455c-a33e-c3915b07401c,agent_selected,3,9043,recorded
+Ministral 3B,bda648d7-d618-4883-88f4-3466eabd860e,agent_selected,3,10568,recorded
+Ministral 3B,50ec8903-b81f-4257-9450-1085afd2c319,agent_selected,3,10462,recorded
+Ministral 3B,cf106601-ab4f-4af9-b045-5295fe67b37d,agent_selected,3,9952,recorded
+Ministral 3B,5f982798-16b9-4051-ab57-cfc7ebdb2a91,agent_selected,3,11083,recorded
+Ministral 3B,a0c07678-e491-4bbc-8f0b-07405144218f,agent_selected,3,10719,recorded
+Ministral 3B,5a0c1adf-205e-4841-a666-7c3ef95def9d,agent_selected,3,10385,recorded
+Ministral 3B,0512426f-4d28-49f0-be77-06d05daec096,agent_selected,3,9906,recorded
+Ministral 3B,0bdb7c40-671d-4ad1-9ce3-986b159c0ddc,agent_selected,3,10196,recorded
+Ministral 3B,db4fd70a-2d37-40ea-873f-9433dc5e301f,agent_selected,3,10325,recorded

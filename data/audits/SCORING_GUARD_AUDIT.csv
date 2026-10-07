@@ -1,0 +1,25 @@
+model,condition,task_id,guard_reason,official_raw_score,official_guarded_score,logged_raw_score,logged_guarded_score
+Luna,Baseline,04a04a9b-226c-43fd-b319-d5e89743676f,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,e1fc63a2-da7a-432f-be78-7c4a95598703,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,9f41b083-683e-4dcf-9185-ccfeaa88fa45,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Baseline,f3917a3d-1d17-4ee2-90c5-683b072218fe,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Baseline,c714ab3a-da30-4603-bacd-d008800188b9,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,11af4e1a-5f45-467d-9aeb-46f4bb0bf034,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,3f57289b-8c60-48be-bd80-01f8099ca449,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Baseline,42d4198c-5895-4f0a-b0c0-424a66465d83,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Baseline,a26649c6-1cb2-470a-871e-6910c64c3e53,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,e29834fd-413a-455c-a33e-c3915b07401c,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Baseline,db4fd70a-2d37-40ea-873f-9433dc5e301f,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Memory,3627a8be-a77f-41bb-b807-7e1bd4c0ebdf,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Memory,dd3c7503-f62a-4bd0-9f67-1b63b94194cc,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Memory,9f41b083-683e-4dcf-9185-ccfeaa88fa45,removed an unrequested label from a numeric answer,0,0,0,0
+Luna,Memory,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,removed an unrequested label from a numeric answer,0,1,0,1
+Luna,Memory,42d4198c-5895-4f0a-b0c0-424a66465d83,removed an unrequested label from a numeric answer,0,0,0,0
+DeepSeek,Baseline,f3917a3d-1d17-4ee2-90c5-683b072218fe,removed an unrequested label from a numeric answer,0,1,0,1
+DeepSeek,Baseline,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,removed an unrequested label from a numeric answer,0,1,0,1
+DeepSeek,Memory,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,removed an unrequested label from a numeric answer,0,1,0,1
+Ministral,Memory,9f41b083-683e-4dcf-9185-ccfeaa88fa45,removed an unrequested label from a numeric answer,0,0,0,0
+Ministral,Memory,7d4a7d1d-cac6-44a8-96e8-ea9584a70825,removed an unrequested label from a numeric answer,0,0,0,0
